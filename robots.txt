@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emimperai.github.io/emimperai.emimperai
+Sitemap: https://emimperai.github.io/app/emimperai.emimperai
+Sitemap: https://emimperai.github.io/assets/emimperai.emimperai
+Sitemap: https://emimperai.github.io/css/emimperai.emimperai
+Sitemap: https://emimperai.github.io/includes/emimperai.emimperai
+Sitemap: https://emimperai.github.io/item/emimperai.emimperai
+Sitemap: https://emimperai.github.io/src/emimperai.emimperai
